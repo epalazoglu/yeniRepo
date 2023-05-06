@@ -6,6 +6,7 @@ public class Class01 {
         //v2 uzerinde calismalar
         System.out.println("v3 Kodlari");//v3
         //v4 deneme
+        //v5 olustur
 
 
     }
