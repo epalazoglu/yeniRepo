@@ -7,7 +7,7 @@ public class Class01 {
         System.out.println("v3 Kodlari");//v3
         //v4 deneme
         //v5 olustur
-        //Github degisiklikleri
+      
         //Local den sevgilerle
 
 
