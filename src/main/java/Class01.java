@@ -9,6 +9,7 @@ public class Class01 {
         //v5 olustur
       
         //Local den sevgilerle
+        //v6
 
 
 
